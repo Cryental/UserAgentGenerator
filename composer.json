@@ -1,5 +1,5 @@
 {
-  "name": "chrisspaghetti/useragentgenerator",
+  "name": "cryental/useragentgenerator",
   "description": "Generate a random User Agent based on OS, platform, browser, etc.",
   "keywords": [
     "random",
